@@ -14,3 +14,8 @@ Log files for all of our matches
 - [2025 Hudson Valley Regional](</2025nysu/>)
 - [2025 New York City Regional](</2025nyny/>)
 - [2025 BattleCry](</2025bc/>)
+
+### Rebuilt 2026
+- [2026 Hudson Valley Regional](</2026nysu/>)
+- [2026 Gotham Regional](</2026nyn2/>)
+- and worlds! (todo)
