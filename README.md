@@ -18,4 +18,4 @@ Log files for all of our matches
 ### Rebuilt 2026
 - [2026 Hudson Valley Regional](</2026nysu/>)
 - [2026 Gotham Regional](</2026nyn2/>)
-- and worlds! (todo)
+- [2026 Daly Division](</2026dal/>)
